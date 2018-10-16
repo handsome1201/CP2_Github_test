@@ -16,7 +16,7 @@ class Calc {
 	}
 
 	public int sub(double a, double b) {
-		return -1;
+		return a - b;
 	}
 
 	public int mul(double a, double b) {
